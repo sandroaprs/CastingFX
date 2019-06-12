@@ -1,0 +1,11 @@
+
+#loginPane {
+    -fx-background-color:#3b5998;
+}
+
+#faixaRodapePane {
+    -fx-background-color:#fff;
+}
+.text-field {
+    -fx-border-style: none;
+}
